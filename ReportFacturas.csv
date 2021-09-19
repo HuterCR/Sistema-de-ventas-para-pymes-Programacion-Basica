@@ -1,0 +1,4 @@
+Fecha_Venta,Nombre_Cliente,Cedula_Cliente,Telefono_Cliente,Dirrecion,Productos,Cantidades,Total_Compra
+12/05/2021,EMANUEL CHACON SALAZAR,402370709,86317106,SAN RAFAEL DE HEREDIA,['Prueba Factura'],['2'],339
+32/05/2021,Emanuel Chacon Salazar,4023700709,86317106,SAN RAFAEL},['Prueba Factura'],['2'],3349
+12/12/1212,12,12,12,12,['Prueba Factura'],['12'],2034
